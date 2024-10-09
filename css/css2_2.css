@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cIf6MapbsEk7TDLdtEz1BwkmmA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/cIflMapbsEk7TDLdtEz1BwkeJI9FQA.ttf) format('truetype');
+}
